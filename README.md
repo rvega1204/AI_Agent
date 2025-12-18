@@ -91,7 +91,7 @@ Iteration 4:
 
 1. **Clone the repository**:
 ```bash
-git clone <repository-url>
+git clone https://github.com/rvega1204/AI_Agent.git
 cd aiagent
 ```
 
