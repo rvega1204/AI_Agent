@@ -372,4 +372,4 @@ available_functions = [
 
 Ricardo Vega 2025
 
-**Note**: This is an educational project demonstrating agentic AI behavior with function calling. Use responsibly and always validate the agent's actions before deploying in production environments.
+**Note**: This project is intended solely for educational and research purposes to demonstrate agentic AI behavior and function-calling techniques. Commercial use, production deployment, or integration into revenue-generating systems is strictly prohibited. The code and concepts are provided “as is,” without warranties of any kind. Users are responsible for independently validating all agent actions, outputs, and security implications before any experimentation. 
